@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
 .app-wrapper {
 	display: grid;
 
@@ -10,33 +12,4 @@
 	grid-template-columns: 2fr 10fr;
 
 	grid-gap: 10px;
-}
-
-.header {
-	grid-area: h;
-	background-color: #13CE66;
-	display: flex;
-	align-items: center;
-	padding: 10px;
-}
-
-.header img {
-	height: 50px;
-}
-
-.nav {
-	grid-area: n;
-	background-color: #13CE66;
-	padding: 15px 20px;
-}
-
-.nav {
-	color: white;
-	font-size: 34px;
-	font-family: Lato;
-}
-
-.content {
-	grid-area: c;
-
 }

@@ -1,0 +1,16 @@
+.nav {
+	grid-area: n;
+	background-color: #13CE66;
+	padding: 15px 20px;
+}
+
+.nav a {
+	color: white;
+	font-size: 34px;
+	font-family: 'Lato';
+	text-decoration: none;
+}
+
+.item {
+	color: red !important;
+}
