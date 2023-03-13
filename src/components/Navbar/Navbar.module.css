@@ -5,12 +5,15 @@
 }
 
 .nav a {
-	color: white;
 	font-size: 34px;
 	font-family: 'Lato';
 	text-decoration: none;
 }
 
 .item {
-	color: red !important;
+	color: white;
+}
+
+.active {
+	color: gold;
 }
