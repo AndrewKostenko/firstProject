@@ -7,14 +7,6 @@
 	padding: 10px;
 }
 
-.dialog {
-	color: #8190A5;
-}
-
-.dialog.active {
-	color: #343F4B;
-	font-size: 24px;
-}
 
 .dialogs-messages {}
 
